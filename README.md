@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A passionate backend/frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **DigitalHouse**
+- 🔭 I’m currently working on **OverVision Analytics** and **DigitalHouse**
 
-- 🌱 I’m currently learning **Golang, Elasticsearch**
+- 🌱 I’m currently learning **Laravel and Vue.js**
 
 - 📫 How to reach me **pablo_mtv08@hotmail.com**
 
